@@ -15,6 +15,14 @@ Now i'm pretty ready to show us my tech-skills, digital/analogic solution, innov
 </div>
 
 <div align="center">
+  <h1>Study:</h1>
+
+Currently i'm learning React-Native, Ruby and Ruby on Rails. 
+
+</div>
+
+
+<div align="center">
   
 <h1>Contact:</h1>
   <a href="mailto:isaacmachado.profissional@gmail.com">
