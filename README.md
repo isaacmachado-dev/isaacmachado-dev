@@ -17,7 +17,7 @@ Now i'm pretty ready to show us my tech-skills, digital/analogic solution, innov
 <div align="center">
   <h1>Study:</h1>
 
-Currently i'm learning Tauri for native computer applications. 
+Currently i'm learning Three.Js, motions and animation on WEB. 
 
 </div>
 
